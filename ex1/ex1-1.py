@@ -1,3 +1,5 @@
+# 1. Make your script print another line
+
 print("Hello World!")
 print("Hello Again")
 print("I like typing this.")
