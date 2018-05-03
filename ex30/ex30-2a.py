@@ -1,6 +1,6 @@
-people = 30
-cars = 40
-trucks = 15
+people = 5
+cars = 5
+trucks = 5
 
 
 if cars > people:
